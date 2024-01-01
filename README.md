@@ -1,4 +1,4 @@
-# Oxide Icon Pack Template
+# RemixIcon Icon Pack for Tinymce v5
 
 This is a template project for creating an Icon Pack for TinyMCE 5. For instructions on how to use this project, [visit the documentation for Create an Icon Pack](https://www.tiny.cloud/docs/advanced/creating-an-icon-pack/).
 
